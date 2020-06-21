@@ -4,598 +4,608 @@
 "../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Emissive.uasset" 3
 "../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Crash.uasset" 4
 "../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Crash_Cue.uasset" 5
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 6
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 7
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 8
-"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 9
-"../../Plugins/FX/Niagara/Content/DynamicInputs/Angles/NormalizedAngleToDegrees.uasset" 10
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 11
-"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 12
-"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 13
-"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedFloat.uasset" 14
-"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 15
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 16
-"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 17
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 18
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 19
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 20
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 21
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 22
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 23
-"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 24
-"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 25
-"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 26
-"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 27
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 28
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 29
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 30
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 31
-"../../Plugins/FX/Niagara/Content/Functions/RandomPointInSphere.uasset" 32
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 33
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 34
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/SphereLocation.uasset" 35
-"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 36
-"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 37
-"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 38
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 39
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 40
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 41
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 42
-"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 43
-"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 44
-"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 45
-"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 46
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Lantern/FlamesEmitter.uasset" 47
-"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/Vector4FromCurve.uasset" 48
-"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 49
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 50
-"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 51
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSUbUVAnimationMode.uasset" 52
-"../../Plugins/FX/Niagara/Content/Modules/Update/SubUV/SubUVAnimation.uasset" 53
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Lantern/FlamesSystem.uasset" 54
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground_2K_AO.uasset" 55
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake_2K_Displacement.uasset" 56
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake_2K_Normal.uasset" 57
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake_2K_Roughness.uasset" 58
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake_2K_Translucency.uasset" 59
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake.uasset" 60
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground_Snow_sinjagua_surface_Preview.uasset" 61
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake_2K_Albedo.uasset" 62
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake_2K_AO.uasset" 63
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Snow_tcbkdcfr_surface_Preview.uasset" 64
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Normal_OpenGL.uasset" 65
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Rock_2K_Albedo.uasset" 66
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Rock_2K_AO.uasset" 67
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Rock_2K_Displacement.uasset" 68
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Rock_2K_Normal.uasset" 69
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Rock_2K_Roughness.uasset" 70
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Rock.uasset" 71
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Snow_Glacier_telobjub_surface_Preview.uasset" 72
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Rocky_2K_Translucency.uasset" 73
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Snow_Glacier_shlqci3a_surface_Preview.uasset" 74
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Pure_2K_Translucency.uasset" 75
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Snow_Pure_uepnbitdy_surface_Preview.uasset" 76
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Basic_Wall.uasset" 77
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Pillar_50x500.uasset" 78
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_400x300.uasset" 79
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_400x400.uasset" 80
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_500x500.uasset" 81
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 82
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 83
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Collapse01.uasset" 84
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Collapse02.uasset" 85
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Explosion01.uasset" 86
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Explosion02.uasset" 87
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Fire01.uasset" 88
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Fire_Sparks01.uasset" 89
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Light01.uasset" 90
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Light01_Cue.uasset" 91
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Light02.uasset" 92
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Light02_Cue.uasset" 93
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Smoke01.uasset" 94
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Starter_Birds01.uasset" 95
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Starter_Music01.uasset" 96
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Starter_Wind05.uasset" 97
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Starter_Wind06.uasset" 98
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Steam01.uasset" 99
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Explosion_Cue.uasset" 100
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Burst_M.uasset" 101
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_Burst.uasset" 102
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 103
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 104
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 105
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 106
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 107
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 108
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 109
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 110
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/P_Explosion.uasset" 111
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 112
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 113
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 114
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Bush_D.uasset" 115
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Bush_N.uasset" 116
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Bush.uasset" 117
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Bush.uasset" 118
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Chair_M.uasset" 119
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Chair_N.uasset" 120
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Chair.uasset" 121
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Couch.uasset" 122
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Glass.uasset" 123
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Door_M.uasset" 124
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Door_N.uasset" 125
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Door.uasset" 126
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Door.uasset" 127
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 128
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 129
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 130
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Shelf_M.uasset" 131
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Shelf_N.uasset" 132
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Shelf.uasset" 133
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Shelf.uasset" 134
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Basic_Floor.uasset" 135
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Stairs.uasset" 136
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Cone.uasset" 137
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 138
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 139
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Pipe.uasset" 140
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 141
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 142
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Plane.uasset" 143
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Torus.uasset" 144
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Trim.uasset" 145
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 146
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 147
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 148
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Tube.uasset" 149
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 150
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 151
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 152
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 153
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 154
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 155
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 156
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 157
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 158
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 159
-"../../../Engine/Content/BasicShapes/Cone.uasset" 160
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 161
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 162
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 163
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 164
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 165
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 166
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 167
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 168
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 169
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 170
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 171
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 172
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 173
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 174
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 175
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 176
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 177
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 178
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 179
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 180
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 181
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 182
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 183
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 184
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 185
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 186
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 187
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 188
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 189
-"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 190
-"../../../Engine/Content/EditorResources/S_Note.uasset" 191
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 192
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 193
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 194
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 195
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 196
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 197
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 198
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 199
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 200
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 201
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 202
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 203
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 204
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 205
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 206
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 207
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 208
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 209
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 210
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 211
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 212
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 213
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 214
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 215
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 216
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 217
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 218
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 219
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 220
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 221
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 222
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 223
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 224
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 225
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 226
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 227
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 228
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 229
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 230
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 231
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 232
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 233
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 234
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 235
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 236
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 237
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 238
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 239
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 240
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 241
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 242
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 243
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 244
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 245
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 246
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 247
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 248
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 249
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 250
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 251
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 252
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 253
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 254
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 255
-"../../../Engine/Content/EngineResources/Black.uasset" 256
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 257
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 258
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 259
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 260
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 261
-"../../../Engine/Content/EngineSounds/Master.uasset" 262
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 263
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 264
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 265
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 266
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 267
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 268
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 269
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 270
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 271
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 272
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 273
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 274
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 275
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 276
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 277
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 278
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 279
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 280
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 281
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 282
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 283
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 284
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 285
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 286
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 287
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 288
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 289
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 290
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 291
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 292
-"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 293
-"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 294
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 295
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 296
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 297
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 298
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 299
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 300
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 301
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 302
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 303
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 304
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 305
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 306
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 307
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 308
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 309
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 310
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 311
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 312
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 313
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 314
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 315
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 316
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 317
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 318
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 319
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 320
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Tentacle_Skeleton.uasset" 321
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Tentacle_Anim.uasset" 322
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Material_002.uasset" 323
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Material_003.uasset" 324
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Tentacle_PhysicsAsset.uasset" 325
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Tentacle.uasset" 326
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Tentacle_Anim_Blueprint.uasset" 327
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake.uasset" 328
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/She_Ra_crystal.uasset" 329
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Ice.uasset" 330
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 331
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Lantern/Flames.uasset" 332
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 333
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_MacroVariation.uasset" 334
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 335
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 336
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Rust.uasset" 337
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 338
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 339
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Steel.uasset" 340
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Lantern/Lantern.uasset" 341
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/MyCharacter.uasset" 342
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/MyGameMode.uasset" 343
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Unmelting.uasset" 344
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Base_Color.uasset" 345
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Height.uasset" 346
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Metallic.uasset" 347
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Normal.uasset" 348
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Roughness.uasset" 349
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Base_Color_Mat.uasset" 350
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/DefaultMaterial.uasset" 351
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15933.uasset" 352
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15951.uasset" 353
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15952.uasset" 354
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15958.uasset" 355
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15963.uasset" 356
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15966.uasset" 357
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15984.uasset" 358
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Monsty.uasset" 359
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Monsty_Blueprint.uasset" 360
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/She_Ra_crystal_Blueprint.uasset" 361
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 362
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Snow_LayerInfo.uasset" 363
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Maps/TestMap_BuiltData.uasset" 364
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground_2K_Albedo.uasset" 365
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground_2K_Displacement.uasset" 366
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground_2K_Normal.uasset" 367
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground_2K_Roughness.uasset" 368
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground.uasset" 369
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Rocky_2K_Albedo.uasset" 370
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Rocky_2K_AO.uasset" 371
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Rocky_2K_Displacement.uasset" 372
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Rocky_2K_Normal.uasset" 373
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Rocky_2K_Roughness.uasset" 374
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/RockyGlacier.uasset" 375
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 376
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Pure_2K_Albedo.uasset" 377
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Pure_2K_AO.uasset" 378
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Pure_2K_Displacement.uasset" 379
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Pure_2K_Normal.uasset" 380
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Pure_2K_Roughness.uasset" 381
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/SnowLand.uasset" 382
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/SnowLandMask.uasset" 383
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 384
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 385
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_RockMesh_M.uasset" 386
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_RockMesh_N.uasset" 387
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Rock.uasset" 388
-"../../../Engine/Content/BasicShapes/Cube.uasset" 389
-"../../../Engine/Content/BasicShapes/Plane.uasset" 390
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 391
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Ambience.uasset" 392
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Ambience_Cue.uasset" 393
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/SM_RockNoCol.uasset" 394
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Rock.uasset" 395
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Maps/TestMap.umap" 396
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 397
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 398
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 399
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 400
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 401
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 402
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 403
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 404
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 405
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 406
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 407
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 408
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 409
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_AssetPlatform.uasset" 410
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 411
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 412
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 413
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 414
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 415
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 416
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 417
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 418
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Maps/Advanced_Lighting.umap" 419
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 420
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 421
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 422
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 423
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 424
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 425
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 426
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 427
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 428
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 429
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 430
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 431
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 432
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 433
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 434
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 435
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Copper.uasset" 436
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Statue_M.uasset" 437
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Statue_N.uasset" 438
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 439
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Floor_400x400.uasset" 440
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 441
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Chair.uasset" 442
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Statue.uasset" 443
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Statue.uasset" 444
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_TableRound_M.uasset" 445
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_TableRound_N.uasset" 446
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_TableRound.uasset" 447
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_TableRound.uasset" 448
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Maps/Minimal_Default.umap" 449
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Fire01_Cue.uasset" 450
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Water_N.uasset" 451
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 452
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 453
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/P_Fire.uasset" 454
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 455
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Smoke01_Cue.uasset" 456
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/P_Smoke.uasset" 457
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 458
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 459
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Spark_Core.uasset" 460
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_Spark.uasset" 461
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/P_Sparks.uasset" 462
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 463
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Steam01_Cue.uasset" 464
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/P_Steam_Lit.uasset" 465
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 466
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Lamp_M.uasset" 467
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Lamp_N.uasset" 468
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Lamp.uasset" 469
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 470
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 471
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 472
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 473
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 474
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 475
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 476
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 477
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 478
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 479
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 480
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 481
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 482
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 483
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 484
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 485
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 486
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 487
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 488
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 489
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 490
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 491
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 492
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 493
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 494
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 495
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 496
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 497
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 498
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 499
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 500
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 501
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 502
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 503
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 504
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 505
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Gradinet_01.uasset" 506
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 507
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 508
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 509
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 510
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 511
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 512
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 513
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 514
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 515
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 516
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 517
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 518
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 519
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 520
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 521
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 522
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 523
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 524
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 525
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 526
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 527
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Ground_Grass.uasset" 528
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 529
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 530
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 531
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 532
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 533
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Ground_Moss.uasset" 534
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 535
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 536
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Gold.uasset" 537
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 538
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 539
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 540
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 541
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 542
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 543
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 544
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 545
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Rock_Slate.uasset" 546
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 547
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 548
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 549
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 550
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 551
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 552
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 553
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 554
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 555
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 556
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 557
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Tech_Panel.uasset" 558
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Water_Lake.uasset" 559
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Water_M.uasset" 560
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Water_Ocean.uasset" 561
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 562
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 563
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 564
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 565
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 566
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 567
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 568
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 569
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Wood_Oak.uasset" 570
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 571
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 572
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Wood_Pine.uasset" 573
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 574
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 575
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 576
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_400x200.uasset" 577
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 578
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 579
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Collapse_Cue.uasset" 580
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 581
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 582
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 583
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 584
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/MaterialSphere.uasset" 585
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Frame_M.uasset" 586
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Frame_N.uasset" 587
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Frame.uasset" 588
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_CornerFrame.uasset" 589
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_DoorFrame.uasset" 590
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_GlassWindow.uasset" 591
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_PillarFrame.uasset" 592
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_PillarFrame300.uasset" 593
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_WindowFrame.uasset" 594
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Cube.uasset" 595
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 596
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Sphere.uasset" 597
-"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Maps/StarterMap.umap" 598
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 599
-"../../../Engine/Content/Maps/Entry.umap" 600
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/DefaultMaterial.uasset" 6
+"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/VectorFromFloat.uasset" 7
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 8
+"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 9
+"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 10
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedFloat.uasset" 11
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 12
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 13
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 14
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 15
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 16
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 17
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 18
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 19
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 20
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 21
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 22
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 23
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 24
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 25
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 26
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 27
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 28
+"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 29
+"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 30
+"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 31
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 32
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 33
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 34
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 35
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 36
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 37
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 38
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/NewNiagaraEmitter.uasset" 39
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Tentacle_Skeleton.uasset" 40
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Tentacle_Anim_BP.uasset" 41
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 42
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 43
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 44
+"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 45
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Angles/NormalizedAngleToDegrees.uasset" 46
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 47
+"../../Plugins/FX/Niagara/Content/Functions/RandomPointInSphere.uasset" 48
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 49
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 50
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/SphereLocation.uasset" 51
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 52
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 53
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Lantern/FlamesEmitter.uasset" 54
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/Vector4FromCurve.uasset" 55
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 56
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 57
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 58
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSUbUVAnimationMode.uasset" 59
+"../../Plugins/FX/Niagara/Content/Modules/Update/SubUV/SubUVAnimation.uasset" 60
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Lantern/FlamesSystem.uasset" 61
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground_2K_AO.uasset" 62
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake_2K_Displacement.uasset" 63
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake_2K_Normal.uasset" 64
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake_2K_Roughness.uasset" 65
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake_2K_Translucency.uasset" 66
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake.uasset" 67
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground_Snow_sinjagua_surface_Preview.uasset" 68
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake_2K_Albedo.uasset" 69
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake_2K_AO.uasset" 70
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Snow_tcbkdcfr_surface_Preview.uasset" 71
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Normal_OpenGL.uasset" 72
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Rock_2K_Albedo.uasset" 73
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Rock_2K_AO.uasset" 74
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Rock_2K_Displacement.uasset" 75
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Rock_2K_Normal.uasset" 76
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Rock_2K_Roughness.uasset" 77
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Rock.uasset" 78
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rock/Snow_Glacier_telobjub_surface_Preview.uasset" 79
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Rocky_2K_Translucency.uasset" 80
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Snow_Glacier_shlqci3a_surface_Preview.uasset" 81
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Pure_2K_Translucency.uasset" 82
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Snow_Pure_uepnbitdy_surface_Preview.uasset" 83
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Basic_Wall.uasset" 84
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Pillar_50x500.uasset" 85
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_400x300.uasset" 86
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_400x400.uasset" 87
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_500x500.uasset" 88
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 89
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 90
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Collapse01.uasset" 91
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Collapse02.uasset" 92
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Explosion01.uasset" 93
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Explosion02.uasset" 94
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Fire01.uasset" 95
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Fire_Sparks01.uasset" 96
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Light01.uasset" 97
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Light01_Cue.uasset" 98
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Light02.uasset" 99
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Light02_Cue.uasset" 100
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Smoke01.uasset" 101
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Starter_Birds01.uasset" 102
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Starter_Music01.uasset" 103
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Starter_Wind05.uasset" 104
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Starter_Wind06.uasset" 105
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Steam01.uasset" 106
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Explosion_Cue.uasset" 107
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Burst_M.uasset" 108
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_Burst.uasset" 109
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 110
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 111
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 112
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 113
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 114
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Particles/T_Smoke_SubUV.uasset" 115
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 116
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 117
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/P_Explosion.uasset" 118
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 119
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 120
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 121
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Bush_D.uasset" 122
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Bush_N.uasset" 123
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Bush.uasset" 124
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Bush.uasset" 125
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Chair_M.uasset" 126
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Chair_N.uasset" 127
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Chair.uasset" 128
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Couch.uasset" 129
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Glass.uasset" 130
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Door_M.uasset" 131
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Door_N.uasset" 132
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Door.uasset" 133
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Door.uasset" 134
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 135
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 136
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 137
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Shelf_M.uasset" 138
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Shelf_N.uasset" 139
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Shelf.uasset" 140
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Shelf.uasset" 141
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Basic_Floor.uasset" 142
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Stairs.uasset" 143
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Cone.uasset" 144
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 145
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 146
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Pipe.uasset" 147
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 148
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 149
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Plane.uasset" 150
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Torus.uasset" 151
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Trim.uasset" 152
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 153
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 154
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 155
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Tube.uasset" 156
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 157
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 158
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 159
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 160
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 161
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 162
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 163
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 164
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 165
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 166
+"../../../Engine/Content/BasicShapes/Cone.uasset" 167
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 168
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 169
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 170
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 171
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 172
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 173
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 174
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 175
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 176
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 177
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 178
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 179
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 180
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 181
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 182
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 183
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 184
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 185
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 186
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 187
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 188
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 189
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 190
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 191
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 192
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 193
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 194
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 195
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 196
+"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 197
+"../../../Engine/Content/EditorResources/S_Note.uasset" 198
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 199
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 200
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 201
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 202
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 203
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 204
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 205
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 206
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 207
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 208
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 209
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 210
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 211
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 212
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 213
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 214
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 215
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 216
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 217
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 218
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 219
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 220
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 221
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 222
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 223
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 224
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 225
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 226
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 227
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 228
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 229
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 230
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 231
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 232
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 233
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 234
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 235
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 236
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 237
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 238
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 239
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 240
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 241
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 242
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 243
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 244
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 245
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 246
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 247
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 249
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 250
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 251
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 252
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 253
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 254
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 255
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 256
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 257
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 258
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 259
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 260
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 261
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 262
+"../../../Engine/Content/EngineResources/Black.uasset" 263
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 264
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 265
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 266
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 267
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 268
+"../../../Engine/Content/EngineSounds/Master.uasset" 269
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 270
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 271
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 272
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 273
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 274
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 275
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 281
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 284
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 285
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 286
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 287
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 288
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 289
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 290
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 291
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 292
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 293
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 294
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 295
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 296
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 297
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 298
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 299
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 300
+"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 301
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 302
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 303
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 304
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 305
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 306
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 307
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 308
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 309
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 310
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 311
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 312
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 313
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 314
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 315
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 316
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 317
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 318
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 319
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 320
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 321
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 322
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 323
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 324
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 325
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 326
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 327
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Tentacle_Hit.uasset" 328
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Particles/Cloud_Mat.uasset" 329
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Particles/Clouds.uasset" 330
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Particles/TentacleSmash.uasset" 331
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Tentacle_Anim.uasset" 332
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Material_002.uasset" 333
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Material_003.uasset" 334
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Tentacle_PhysicsAsset.uasset" 335
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Tentacle.uasset" 336
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Tentacle_Anim_Blueprint.uasset" 337
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Lake/Lake.uasset" 338
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/She_Ra_crystal.uasset" 339
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Ice.uasset" 340
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/MyShake.uasset" 341
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 342
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Lantern/Flames.uasset" 343
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 344
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_MacroVariation.uasset" 345
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 346
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 347
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Rust.uasset" 348
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 349
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 350
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Steel.uasset" 351
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Lantern/Lantern.uasset" 352
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/MyCharacter.uasset" 353
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/MyGameMode.uasset" 354
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Unmelting.uasset" 355
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Base_Color.uasset" 356
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Height.uasset" 357
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Metallic.uasset" 358
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Normal.uasset" 359
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Roughness.uasset" 360
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Monsty/DefaultMaterial_Base_Color_Mat.uasset" 361
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15933.uasset" 362
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15951.uasset" 363
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15952.uasset" 364
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15958.uasset" 365
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15963.uasset" 366
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15966.uasset" 367
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/basicmesh_Group15984.uasset" 368
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Monsty.uasset" 369
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Monsty_Blueprint.uasset" 370
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/She_Ra_crystal_Blueprint.uasset" 371
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 372
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Snow_LayerInfo.uasset" 373
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Maps/TestMap_BuiltData.uasset" 374
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground_2K_Albedo.uasset" 375
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground_2K_Displacement.uasset" 376
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground_2K_Normal.uasset" 377
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground_2K_Roughness.uasset" 378
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Ground/Ground.uasset" 379
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Rocky_2K_Albedo.uasset" 380
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Rocky_2K_AO.uasset" 381
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Rocky_2K_Displacement.uasset" 382
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Rocky_2K_Normal.uasset" 383
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/Rocky_2K_Roughness.uasset" 384
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Rocky_Glacier/RockyGlacier.uasset" 385
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 386
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Pure_2K_Albedo.uasset" 387
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Pure_2K_AO.uasset" 388
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Pure_2K_Displacement.uasset" 389
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Pure_2K_Normal.uasset" 390
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/Pure_2K_Roughness.uasset" 391
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/SnowLand.uasset" 392
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Materials/Snow_Pure/SnowLandMask.uasset" 393
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 394
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 395
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_RockMesh_M.uasset" 396
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_RockMesh_N.uasset" 397
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Rock.uasset" 398
+"../../../Engine/Content/BasicShapes/Cube.uasset" 399
+"../../../Engine/Content/BasicShapes/Plane.uasset" 400
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 401
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Ambience.uasset" 402
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Ambience_Cue.uasset" 403
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/SM_RockNoCol.uasset" 404
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Rock.uasset" 405
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/Assets/Maps/TestMap.umap" 406
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 407
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 408
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 409
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 410
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 411
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 412
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 413
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 414
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 415
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 416
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 417
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 418
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 419
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_AssetPlatform.uasset" 420
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 421
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 422
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 423
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 424
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 425
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 426
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 427
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 428
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Maps/Advanced_Lighting.umap" 429
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 430
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 431
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 432
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 433
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 434
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 435
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 436
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 437
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 438
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 439
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 440
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 441
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 442
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 443
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 444
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 445
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Copper.uasset" 446
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Statue_M.uasset" 447
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Statue_N.uasset" 448
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 449
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Floor_400x400.uasset" 450
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 451
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Chair.uasset" 452
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Statue.uasset" 453
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Statue.uasset" 454
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_TableRound_M.uasset" 455
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_TableRound_N.uasset" 456
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_TableRound.uasset" 457
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_TableRound.uasset" 458
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Maps/Minimal_Default.umap" 459
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Fire01_Cue.uasset" 460
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Water_N.uasset" 461
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 462
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 463
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/P_Fire.uasset" 464
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 465
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Smoke01_Cue.uasset" 466
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/P_Smoke.uasset" 467
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 468
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 469
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Spark_Core.uasset" 470
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_Spark.uasset" 471
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/P_Sparks.uasset" 472
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 473
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Steam01_Cue.uasset" 474
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/P_Steam_Lit.uasset" 475
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 476
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Lamp_M.uasset" 477
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Lamp_N.uasset" 478
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Lamp.uasset" 479
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 480
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 481
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 482
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 483
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 484
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 485
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 486
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 487
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 488
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 489
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 490
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 491
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 492
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 493
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 494
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 495
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 496
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 497
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 498
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 499
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 500
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 501
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 502
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 503
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 504
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 505
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 506
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 507
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 508
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 509
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 510
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 511
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 512
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 513
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 514
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 515
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Gradinet_01.uasset" 516
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 517
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 518
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 519
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 520
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 521
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 522
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 523
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 524
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 525
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 526
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 527
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 528
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 529
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 530
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 531
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 532
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 533
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 534
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 535
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 536
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 537
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Ground_Grass.uasset" 538
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 539
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 540
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 541
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 542
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 543
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Ground_Moss.uasset" 544
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 545
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 546
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Metal_Gold.uasset" 547
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 548
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 549
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 550
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 551
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 552
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 553
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 554
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 555
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Rock_Slate.uasset" 556
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 557
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 558
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 559
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 560
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 561
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 562
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 563
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 564
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 565
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 566
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 567
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Tech_Panel.uasset" 568
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Water_Lake.uasset" 569
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Water_M.uasset" 570
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Water_Ocean.uasset" 571
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 572
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 573
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 574
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 575
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 576
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 577
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 578
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 579
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Wood_Oak.uasset" 580
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 581
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 582
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Wood_Pine.uasset" 583
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 584
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 585
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 586
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_400x200.uasset" 587
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 588
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 589
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Collapse_Cue.uasset" 590
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 591
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 592
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 593
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 594
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/MaterialSphere.uasset" 595
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Frame_M.uasset" 596
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Textures/T_Frame_N.uasset" 597
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/Materials/M_Frame.uasset" 598
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_CornerFrame.uasset" 599
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_DoorFrame.uasset" 600
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_GlassWindow.uasset" 601
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_PillarFrame.uasset" 602
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_PillarFrame300.uasset" 603
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Props/SM_WindowFrame.uasset" 604
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Cube.uasset" 605
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 606
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Shapes/Shape_Sphere.uasset" 607
+"../../../../../../Users/steve/Documents/Unreal Projects/test3/Content/StarterContent/Maps/StarterMap.umap" 608
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 609
+"../../../Engine/Content/Maps/Entry.umap" 610
